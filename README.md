@@ -23,7 +23,7 @@ This project implements a 32-bit MIPS pipelined processor in Verilog. It consist
 - **Clock Phases:** The processor uses a two-phase clock, generated in the testbench.
   
 ## Sample Program
-In the provided testbench (test1_mips32.v), the following MIPS assembly instructions are pre-loaded into memory:
+In the provided testbench (test2_mips32.v), the following MIPS assembly instructions are pre-loaded into memory:
 1. **Assembly:**
    ```bash
    ADDI R1, R0, 120    // Load the value 120 into register R1
