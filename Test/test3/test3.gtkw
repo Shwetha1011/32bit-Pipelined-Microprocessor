@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Sep 15 20:26:07 2024
+[*]
+[dumpfile] "C:\Users\Shwetha Gajula\MIPS32\build\mips.vcd"
+[dumpfile_mtime] "Sun Sep 15 20:23:12 2024"
+[dumpfile_size] 14614
+[savefile] "C:\Users\Shwetha Gajula\MIPS32\build\test3.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -642 -129
+*-6.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test3_mips32.
+[sst_width] 197
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@28
+test3_mips32.mips.clk1
+test3_mips32.mips.clk2
+@22
+test3_mips32.mips.PC[31:0]
+test3_mips32.mips.IF_ID_IR[31:0]
+test3_mips32.mips.IF_ID_NPC[31:0]
+test3_mips32.mips.ID_EX_A[31:0]
+test3_mips32.mips.ID_EX_B[31:0]
+test3_mips32.mips.ID_EX_IR[31:0]
+test3_mips32.mips.ID_EX_Imm[31:0]
+test3_mips32.mips.ID_EX_NPC[31:0]
+@28
+test3_mips32.mips.ID_EX_type[2:0]
+@22
+test3_mips32.mips.EX_MEM_ALUOut[31:0]
+test3_mips32.mips.EX_MEM_B[31:0]
+test3_mips32.mips.EX_MEM_IR[31:0]
+@28
+test3_mips32.mips.EX_MEM_type[2:0]
+@22
+test3_mips32.mips.MEM_WB_ALUOut[31:0]
+test3_mips32.mips.MEM_WB_IR[31:0]
+test3_mips32.mips.MEM_WB_LMD[31:0]
+@28
+test3_mips32.mips.MEM_WB_type[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
